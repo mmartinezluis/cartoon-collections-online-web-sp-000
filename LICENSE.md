@@ -1,5 +1,5 @@
 ___________________________________
-GITHUB SOLUTION 
+GITHUB SOLUTION
 
 potentially_cheesy_items = %w[umbrella spinach cheddar helicopter]
 
