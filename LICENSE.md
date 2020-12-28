@@ -1,3 +1,19 @@
+___________________________________
+GITHUB SOLUTION 
+
+potentially_cheesy_items = %w[umbrella spinach cheddar helicopter]
+
+def find_the_cheese(potentially_cheesy_items)
+  cheeses = %w[gouda cheddar camembert]
+
+  potentially_cheesy_items.find do |maybe_cheese|
+    cheeses.include?(maybe_cheese)
+  end
+end
+___________________________________
+
+
+
 
 
 def find_the_cheese(array)
